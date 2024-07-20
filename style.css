@@ -64,6 +64,11 @@ hr {
   display: flex;
   align-items: center;
 }
+
+.quastion-box-wrapper__box div p:hover{
+  color: hsl(311, 100%, 56%);
+}
+
 .quastion-box-wrapper__box div img {
   height: 25px;
   width: 25px;
@@ -74,6 +79,7 @@ hr {
   font-weight: 600;
   font-size: 1.1rem;
 }
+
 .quastion-box-wrapper__box p:last-child {
   color: hsl(292, 16%, 49%);
 }
